@@ -1,0 +1,4 @@
+name: meloenv
+channels:
+  - defaults
+prefix: /Users/meloenzinger/anaconda3/envs/meloenv
