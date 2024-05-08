@@ -1,4 +1,9 @@
 name: meloenv
 channels:
   - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
 prefix: /Users/meloenzinger/anaconda3/envs/meloenv
