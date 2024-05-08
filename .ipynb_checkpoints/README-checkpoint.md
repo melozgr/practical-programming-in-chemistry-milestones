@@ -7,12 +7,12 @@ The **personal milestones table** outlines key milestones for practical programm
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username`                                               | 
-| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
+| 1    | Github Account Created                      | https://github.com/melozgr                                               | 
+| 1    | Github Profile Page                         | https://github.com/melozgr/melozgr                                    |
+| 1    | Commit and Push Change from Command Line    | https://github.com/melozgr/practical-programming-in-chemistry-milestones/commit/08ffac4229aa8d55adb8a37a88e6d901c275594a                |
+| 1    | Create a New Branch                         | https://github.com/melozgr/practical-programming-in-chemistry-milestones/tree/new-feature            |
+| 1    | Create a conda environment                  | https://github.com/melozgr/practical-programming-in-chemistry-milestones/blob/main/environment.yml|
+| 1    | Fork a Repo                                 | https://github.com/melozgr/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 
