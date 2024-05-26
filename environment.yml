@@ -1,4 +1,11 @@
 name: meloenv
 channels:
   - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
 prefix: /Users/meloenzinger/anaconda3/envs/meloenv
