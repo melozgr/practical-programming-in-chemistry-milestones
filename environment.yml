@@ -6,4 +6,5 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - jupyterlab
 prefix: /Users/meloenzinger/anaconda3/envs/meloenv

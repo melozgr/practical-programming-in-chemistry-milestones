@@ -13,8 +13,8 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://github.com/melozgr/practical-programming-in-chemistry-milestones/tree/new-feature            |
 | 1    | Create a conda environment                  | https://github.com/melozgr/practical-programming-in-chemistry-milestones/blob/main/environment.yml |
 | 1    | Fork a Repo                                 | https://github.com/melozgr/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
-| 2    | (Optional) Review a Pull Request            | |
+| 1    | (Optional) Make a Pull Request              | https://github.com/schwallergroup/practical-programming-in-chemistry-milestones/pull/39 |
+| 2    | (Optional) Review a Pull Request            | https://github.com/schwallergroup/practical-programming-in-chemistry-milestones/pull/39#issuecomment-2132308600 |
 | 4    | Update `env.yml` via a Pull Request         | https://github.com/melozgr/practical-programming-in-chemistry-milestones/pull/33 |
 
 **More milestones will be added throughout the course.**
